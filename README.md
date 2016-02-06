@@ -1,18 +1,19 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+CrunchTime has two main modes: Exercise Mode and Calorie Mode. The default is Exercise Mode where the user first selects an exercise.  
+
+
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Courtney Pasco ([courtneyrae23@berkeley.edu](mailto:courtneyrae23@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See CrunchTime Demo (https://www.youtube.com/watch?v=T16cZ1AU0zQ&feature=youtu.be)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
